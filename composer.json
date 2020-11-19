@@ -1,0 +1,19 @@
+{
+    "name": "pro/bridage",
+    "description": "this will linked between two project",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "bridage",
+            "email": "bridage@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Pro\\Bridage\\": "src/"
+        }
+    }
+}
